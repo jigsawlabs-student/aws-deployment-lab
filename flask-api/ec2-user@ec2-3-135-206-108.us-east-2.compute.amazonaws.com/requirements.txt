@@ -1,5 +1,0 @@
-flask
-pytest
-psycopg2-binary
-simplejson
-python-dotenv
